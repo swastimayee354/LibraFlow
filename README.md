@@ -42,6 +42,26 @@ LibraFlow/
 
 ------------------------------------------------------------------------
 
+## 📷 Screenshots
+
+### Main Menu
+![LibraFlow Main Menu](https://github.com/swastimayee354/LibraFlow/blob/08b284cd4ced9d285161a360368c8cdc080c3f13/LIBRAFLOW_CHOICE-01.png)
+
+### Issue a Book
+![Issue a Book](https://github.com/swastimayee354/LibraFlow/blob/08b284cd4ced9d285161a360368c8cdc080c3f13/LIBRAFLOW_CHOICE-02.png)
+
+### Return a Book & Fine
+![Return Book and Fine](https://github.com/swastimayee354/LibraFlow/blob/08b284cd4ced9d285161a360368c8cdc080c3f13/LIBRAFLOW_CHOICE-03.png)
+
+### View All Issued Books
+![View Issued Books](https://github.com/swastimayee354/LibraFlow/blob/08b284cd4ced9d285161a360368c8cdc080c3f13/LIBRAFLOW_CHOICE-04.png)
+
+### Edit / Delete Records
+![Edit or Delete Records](https://github.com/swastimayee354/LibraFlow/blob/08b284cd4ced9d285161a360368c8cdc080c3f13/LIBRAFLOW_CHOICE-05.png)
+
+------------------------------------------------------------------------
+
+
 ## 📥 **How to Run the Project**
 
 ### **1. Compile**
